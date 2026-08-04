@@ -1,6 +1,6 @@
 👋 Hi, I’m Archi                                                                                                                                                                                                
-🎓 Senior Computer Science Student @ UIC                                                                                                                                                                             
-💡 Aspiring Data Scientist & Software Engineer                                                                                                                                                                       
+🎓 Computer Science Graduate @ UIC                                                                                                                                                                             
+💡 Aspiring Full Stack Developer                                                                                                                                                                       
 📍 Chicago, IL
 
 👀 Interests                                                                                                                                                                                                        
