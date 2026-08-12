@@ -1,44 +1,47 @@
-👋 Hi, I’m Archi                                                                                                                                                                                                
-🎓 Computer Science Graduate @ UIC                                                                                                                                                                             
-💡 Aspiring Full Stack Developer                                                                                                                                                                       
+👋 Hi, I'm Archi
+🎓 Computer Science Graduate @ UIC (Dec 2025)
+💡 Full Stack Developer, actively job hunting
 📍 Chicago, IL
 
-👀 Interests                                                                                                                                                                                                        
--Artificial Intelligence & Machine Learning 🤖                                                                                                                                                                      
--Software Development & Data Science 📊                                                                                                                                                                          
--Cybersecurity & Ethical Hacking 🔐                                                                                                                                                                                 
--Open-Source Contributions 🚀                                                                                                                                                                                       
--Exploring new technologies & frameworks 🌐
+🔭 Currently Seeking
+Full-stack / software engineering roles - open to direct employers and staffing/consulting firms
 
-🌱 Currently Learning                                                                                                                                                                                
--Flutter for cross-platform mobile development 📱                                                                                                                                                         
--Advanced Data Visualization & AI Integration 🎨                                                                                                                                                              
+👀 What I Work With
+-Full-stack: React, Next.js, TypeScript, Django, FastAPI
+-LLM API integration (Claude, Gemini)
+-Built a C compiler with real-time visualization
+-Some Flutter/Dart (Chicago Explorer App)
 
-💼 Work Experience                                                                                                                                                                                      
-  Full Stack Software Engineering Intern @ UI Health 🏥                                                                                                                                                    
--Improved chatbot response time by 40% with GPT-powered enhancements                                                                                                                                              
--Analyzed cost-effective AI applications for user engagement                                                                                                                                                    
+🌱 Currently Building
+-A pantry/recipe app using Next.js, TypeScript, and an LLM API - suggests recipes from ingredients on hand
+-Commuter Student Hub (React, Tailwind, Node.js)
 
-  Research Assistant @ Early Research Scholar Program 🔬                                                                                                                                                   
--Explored compiler error visualization techniques                                                                                                                                                          
--Developed interactive debugging approaches                                                                                                                                                                     
+💼 Work Experience
+Full Stack Software Engineering Intern @ UI Health 🏥
+-Improved chatbot response time by 40% with GPT-powered enhancements
+-Analyzed cost-effective AI applications for user engagement
 
-💞️ Looking to Collaborate On                                                                                                                                                                             
--AI & Data Science projects 🤝                                                                                                                                                                                     
--Open-source software development 💻                                                                                                                                                                          
--Research in cybersecurity & ethical AI 🔍                                                                                                                                                                        
+Research Assistant @ University of Chicago Booth School of Business 📊
+-Reviewed and QA'd a large automated data pipeline
 
-📫 How to Reach Me                                                                                                                                                                                            
-📩 Email: archishah811@gmail.com                                                                                                                                                                            
-🔗 LinkedIn: linkedin.com/in/archi811                                                                                                                                                                             
+Research Assistant @ UIC (Early Research Scholar Program) 🔬
+-Built a C compiler with real-time linked list visualization
+-Explored compiler error visualization and interactive debugging approaches
+
+Commuter Assistant @ UIC (3 years) 🚌
+-Analyzed event attendance data and produced visitor reports
+
+💞️ Looking to Collaborate On
+-AI & Data Science projects 🤝
+-Open-source software development 💻
+-Research in cybersecurity & ethical AI 🔍
+
+📫 How to Reach Me
+📩 Email: archishah811@gmail.com
+🔗 LinkedIn: linkedin.com/in/archi811
 
 😄 Pronouns
 -She/Her
 
 ⚡ Fun Fact
 -I love traveling, cooking, and picking up new hobbies! 🍳✈️
-
-<!---
-archishah811/archishah811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
